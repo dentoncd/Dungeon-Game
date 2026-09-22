@@ -31,7 +31,7 @@ bool move_to_tile(int row, int col);
 int main() {
     try {
         // Game Intro
-        // intro_screen();
+        intro_screen();
 
         // Hero starting location
         int row = 3;
